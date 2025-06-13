@@ -49,7 +49,7 @@ Place it in your project folder or make sure it's in your system PATH.
 
 1. **Run the script:**
 ```
-python PDF-s-Auto.py
+python AutoPDFs.py
 ```
 
 2. **Follow the prompts:**
